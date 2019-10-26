@@ -8,6 +8,12 @@ class HomeController extends Controller
 {
     public function index(){
 
+
       return view('front-end.index');
+    }
+
+    public function all_blog(){
+
+      return view('front-end.all-blog');
     }
 }

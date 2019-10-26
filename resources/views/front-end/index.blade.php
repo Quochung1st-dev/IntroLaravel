@@ -940,7 +940,7 @@
 
                                     <!-- filters -->
                                     <div class="all-blog">
-                                        <a href="blog.html">All Blog</a>
+                                        <a href="{!! route('all-blog') !!}">All Blog</a>
                                     </div>
 
                                 </div>

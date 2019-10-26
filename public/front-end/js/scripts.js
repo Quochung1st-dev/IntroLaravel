@@ -347,7 +347,8 @@ $(function() {
     $('.top-menu').on('click', 'a', function() {
 
         if (!$('#home-card').length) {
-            location.href = '/patrick/' + $(this).attr('href');
+          location.href =$(this).attr('href');
+            // location.href = '/patrick/' + $(this).attr('href');
         }
 
         return false;

@@ -9,37 +9,37 @@
     <div class="top-menu">
         <ul>
             <li class="active">
-                <a href="#home-card">
+                <a href="{!! route('index') !!}#home-card">
       <span class="icon la la-home"></span>
       <span class="link">Home</span>
     </a>
             </li>
             <li>
-                <a href="#about-card">
+                <a href="{!! route('index') !!}#about-card">
       <span class="icon la la-user"></span>
       <span class="link">About</span>
     </a>
             </li>
             <li>
-                <a href="#resume-card">
+                <a href="{!! route('index') !!}#resume-card">
       <span class="icon la la-gear"></span>
       <span class="link">Resume</span>
     </a>
             </li>
             <li>
-                <a href="#works-card">
+                <a href="{!! route('index') !!}#works-card">
       <span class="icon la la-eye"></span>
       <span class="link">Portfolio</span>
     </a>
             </li>
             <li>
-                <a href="#blog-card">
+                <a href="{!! route('index') !!}#blog-card">
       <span class="icon la la-newspaper-o"></span>
       <span class="link">Blog</span>
     </a>
             </li>
             <li>
-                <a href="#contacts-card">
+                <a href="{!! route('index') !!}#contacts-card">
       <span class="icon la la-envelope"></span>
       <span class="link">Contacts</span>
     </a>
