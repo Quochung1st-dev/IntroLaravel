@@ -13,3 +13,5 @@
 Route::get('/', ['as' => 'index' , 'uses' => 'HomeController@index'] );
 
 Route::get('all-blog', ['as' => 'all-blog' , 'uses' => 'HomeController@all_blog'] );
+
+Route::get('detail-blog', ['as' => 'detail-blog' , 'uses' => 'HomeController@detail_blog'] );

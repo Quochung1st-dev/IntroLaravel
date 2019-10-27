@@ -10,7 +10,7 @@
                     <div class="vertical-center">
 
                         <!-- Started titles -->
-                        <div class="title"><span>Patrick</span> Johansson</div>
+                        <div class="title"><span>QUOC</span> HUNG IT</div>
                         <div class="subtitle">
                             I am
                             <div class="typing-title">

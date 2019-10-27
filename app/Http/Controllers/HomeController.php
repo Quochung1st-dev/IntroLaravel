@@ -16,4 +16,9 @@ class HomeController extends Controller
 
       return view('front-end.all-blog');
     }
+
+    public function detail_blog(){
+
+      return view('front-end.detail-blog');
+    }
 }
